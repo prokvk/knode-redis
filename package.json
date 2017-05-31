@@ -1,0 +1,23 @@
+{
+  "name": "knode-redis",
+  "version": "1.0.0",
+  "description": "simple redis wrapper",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prokvk/knode-redis.git"
+  },
+  "author": "prokvk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokvk/knode-redis/issues"
+  },
+  "homepage": "https://github.com/prokvk/knode-redis#readme"
+}
